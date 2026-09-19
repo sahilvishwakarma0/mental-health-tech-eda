@@ -28,5 +28,8 @@ Upload these files to your repository:
 - `mental_health_eda.ipynb`
 - `requirements.txt`
 - `survey.csv`
+  ## Live Streamlit Dashboard
+
+[Open Live Dashboard](https://mental-health-tech-eda-9f9kdpvsy2ccnrgut8pprm.streamlit.app) 
 
 The dashboard is descriptive and does not establish causation.
